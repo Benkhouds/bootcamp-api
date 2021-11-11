@@ -1,0 +1,1 @@
+export {default as bootcampRoutes} from './bootcamp.route.js'
